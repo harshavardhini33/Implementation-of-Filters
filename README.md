@@ -29,8 +29,8 @@ Plot the images of the original one and the filtered one using plt.figure() and 
 
 ## Program:
 ```python
-Developed By   : Vaishnavi M
-Register Number: 212221240058
+Developed By   : HARSHAVARDHINI M
+Register Number: 212221240015
 
 import cv2
 import numpy as np
